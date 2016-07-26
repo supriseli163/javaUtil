@@ -1,0 +1,10 @@
+java 8 stream feature:
+
+anymatch: 
+ex:
+  List<Intege> ll = Lists.newArrayList();
+  boolean isExist = ll.stream().anyMatch(l -> l== 1);
+  
+  //数组中任意一个元素匹配该条件，即返回true
+  return configManagers.stream()
+                .anyMatch(configManager -> configManager.hasConfig(key));
