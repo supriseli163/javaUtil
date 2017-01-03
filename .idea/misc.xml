@@ -3,9 +3,6 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
-  </component>
   <component name="PegdownDocletIdea.ProjectConfiguration">
     <option name="enabled" value="false" />
     <option name="renderingOptions">

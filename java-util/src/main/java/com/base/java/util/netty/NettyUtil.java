@@ -36,6 +36,6 @@ public final class NettyUtil {
     }
 
     public static ServerBootstrap createConsoleBootStrap() {
-        return createBootstrap(CONSOLE_MASTER_GROUP_SIZE, CONSOLE_MASTER_GROUP_SIZE);
+        return createBootstrap(CONSOLE_MASTER_GROUP_SIZE, CONSOLE_WORKER_GROUP_SIZE);
     }
 }
