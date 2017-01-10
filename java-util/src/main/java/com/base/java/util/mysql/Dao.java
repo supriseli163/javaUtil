@@ -4,11 +4,12 @@ import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
 import org.hibernate.Session;
 
 import javax.persistence.Table;
+import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 import java.util.Collection;
 import java.util.Map;
-
+import java.util.List;
 public abstract class Dao<T extends Model> {
     private SessionHolder sessionHolder;
     private Class<T> modelType;
@@ -59,6 +60,37 @@ public abstract class Dao<T extends Model> {
     }
 
     protected T get(Query query) {
+        long start = System.currentTimeMillis();
+        try {
+            return (T)toHquery(query).uniqueResult();
+        } catch (Exception e) {
+         return null;
+        }
+    }
 
+    public T getById(Serializable id) {
+        long start = System.currentTimeMillis();
+        try {
+            return (T)getSession().get(modelType, id);
+        } finally {
+            return null;
+        }
+    }
+
+    @SuppressWarnings("unchecked")
+    public List<T> getList(Query query) {
+        long start = System.currentTimeMillis();
+        try {
+            return (List<T>)toHquery(query).list();
+        } finally {
+            return null;
+        }
+    }
+
+    public T create(T item) {
+        long start = System.currentTimeMillis();
+        try {
+            return (List<T>)toHquery()
+        }
     }
 }
