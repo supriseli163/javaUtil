@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Random;
 
 public class MQConnectorPool {
-    private List<MQConnection> aliveCOnnections = new LinkedList<>();
+    private List<MQConnection> aliveConnections = new LinkedList<>();
     private List<MQConnection> deadConnection = new LinkedList<>();
 
     private ConnectionFactory factory;
@@ -35,7 +35,7 @@ public class MQConnectorPool {
             Connection connection = null;
             try {
                 connection = factory.newConnection();
-                aliveCOnnections.add(new MQConnection(connection, config.getChannelCount()));
+                aliveConnections.add(new MQConnection(connection, config.getChannelCount()));
             } catch (IOException e) {
                 throw new IllegalStateException("create connection fail",e);
             }
@@ -44,15 +44,15 @@ public class MQConnectorPool {
 
     public MQConnection getConnection() {
         Random random = new Random(System.currentTimeMillis());
-        if(aliveCOnnections.size() <= 0) {
+        if(aliveConnections.size() <= 0) {
             throw new RuntimeException("all connection interrupted.");
         }
 
-        int i = random.nextInt(aliveCOnnections.size());
+        int i = random.nextInt(aliveConnections.size());
 
-        MQConnection connection = aliveCOnnections.get(i);
+        MQConnection connection = aliveConnections.get(i);
         if(!connection.isOPen()) {
-            aliveCOnnections.remove(i);
+            aliveConnections.remove(i);
             deadConnection.add(connection);
         }
         return connection;

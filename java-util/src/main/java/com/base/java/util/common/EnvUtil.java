@@ -3,7 +3,7 @@ package com.base.java.util.common;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-public final class EnvUtil {
+public final class  EnvUtil {
     private static final String DEFAULT_HOSTNAME = "default";
     private static final String DEFAULT_IPADDRESS = "127.0.0.1";
 

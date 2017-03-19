@@ -1,11 +1,13 @@
 package com.util.java.util;
 
 import com.base.java.util.common.EnvUtil;
+import com.base.java.util.common.MemorySizeUtil;
 import com.base.java.util.config.Config;
 import com.base.java.util.config.ConfigLoader;
 import com.base.java.util.json.JsonUtil;
 import lombok.Data;
 import org.junit.Test;
+import org.testng.annotations.BeforeTest;
 
 import java.util.List;
 import java.util.Map;
@@ -13,7 +15,7 @@ import java.util.Map;
 import static junit.framework.TestCase.assertEquals;
 
 public class CommonTest {
-    InnerClassA innerClassA = new InnerClassA();
+    InnerClassA innerClassA;
 
     @Data
     public static class InnerClassA {
@@ -28,8 +30,9 @@ public class CommonTest {
         private Object object;
     }
 
-    public void beforTest() {
-
+    @BeforeTest
+    public void beforeTest() {
+        innerClassA = new InnerClassA();
     }
 
     @Test
@@ -57,5 +60,12 @@ public class CommonTest {
     public void testHostName() {
         System.err.println(EnvUtil.getHostName());
         System.err.println(EnvUtil.getIpAddress());
+    }
+
+    @Test
+    public void testMemorySize() {
+        innerClassA = new InnerClassA();
+        int size = MemorySizeUtil.estimateSize(innerClassA);
+        System.err.print(size);
     }
 }

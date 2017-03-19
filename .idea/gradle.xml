@@ -9,11 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/java-util" />
+            <option value="$PROJECT_DIR$/java-util/framework" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$/java-util" />
+            <option value="$PROJECT_DIR$/java-util/framework" />
           </set>
         </option>
       </GradleProjectSettings>
