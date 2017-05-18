@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec93750-ab3c-4cc9-a363-187c2798b8ec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_poi_poi_3_10_FINAL.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/framework/framework.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/cglb/AroundAdvice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/cglb/CGLBTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/cglb/Chinese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/cglb/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/concurrent/DeadLock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/EagerSingleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/LazySingleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/objectpool/ObjectPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/objectpool/ObjectPoolTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/AdvancedMemberStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/ConcreteStragegyA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/ConcreteStrategyB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/ConcreteStrategyC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/IntermediateMemberStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/MemberStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/Price.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/PrimaryMemberStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/designpattern/strategy/Strategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/framework/cglib/Filter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/image/MarkUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/office/ExcelUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/reflect/EnumUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/test/java/com/util/java/util/basic/EnumUtilTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/test/java/com/util/java/util/basic/JsonUtilTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/test/java/com/util/java/util/basic/NameEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/test/java/com/util/java/util/basic/VolatileTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java-util/src/test/java/com/util/java/util/basic/office/ExcelTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-util/build.gradle" afterPath="$PROJECT_DIR$/java-util/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-util/java-util.iml" afterPath="$PROJECT_DIR$/java-util/java-util.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/jvm/classloader/ClassLoaderTest.java" afterPath="$PROJECT_DIR$/java-util/src/main/java/com/base/java/util/jvm/classloader/ClassLoaderTest.java" />
     </list>
     <ignored path="supriseli.java.github.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -171,8 +133,8 @@
       <file leaf-file-name="ExcelTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-util/src/test/java/com/util/java/util/basic/office/ExcelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9053498">
-              <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+            <state vertical-scroll-proportion="1.5871834">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1846,7 +1808,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-279" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12328767" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1856,8 +1818,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25049505" sideWeight="0.49181402" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30792078" sideWeight="0.868336" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25049505" sideWeight="0.49181402" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30792078" sideWeight="0.868336" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18530351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2356,8 +2318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-util/src/test/java/com/util/java/util/basic/office/ExcelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9053498">
-          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        <state vertical-scroll-proportion="1.5871834">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
