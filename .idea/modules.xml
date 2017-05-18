@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-util/framework/framework.iml" filepath="$PROJECT_DIR$/java-util/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grovey-util.iml" filepath="$PROJECT_DIR$/grovey-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-util/java-util.iml" filepath="$PROJECT_DIR$/java-util/java-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/supriseli.java.github.iml" filepath="$PROJECT_DIR$/.idea/supriseli.java.github.iml" />
     </modules>
