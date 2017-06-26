@@ -9,28 +9,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/java-util" />
+            <option value="$PROJECT_DIR$/java-util/data-access-layer" />
             <option value="$PROJECT_DIR$/java-util/framework" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$/java-util" />
+            <option value="$PROJECT_DIR$/java-util/data-access-layer" />
             <option value="$PROJECT_DIR$/java-util/framework" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/vine-processor" />
-        <option name="gradleJvm" value="1.8" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/vine-processor" />
-          </set>
-        </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$/vine-processor" />
           </set>
         </option>
       </GradleProjectSettings>
