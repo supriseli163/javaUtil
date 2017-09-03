@@ -1,4 +1,5 @@
 rootProject.name = 'java-util'
 include 'framework'
 include 'data-access-layer'
+include 'sky-eagle'
 

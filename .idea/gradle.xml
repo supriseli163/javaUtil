@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/java-util" />
             <option value="$PROJECT_DIR$/java-util/data-access-layer" />
             <option value="$PROJECT_DIR$/java-util/framework" />
+            <option value="$PROJECT_DIR$/java-util/sky-eagle" />
           </set>
         </option>
         <option name="myModules">
@@ -18,6 +19,7 @@
             <option value="$PROJECT_DIR$/java-util" />
             <option value="$PROJECT_DIR$/java-util/data-access-layer" />
             <option value="$PROJECT_DIR$/java-util/framework" />
+            <option value="$PROJECT_DIR$/java-util/sky-eagle" />
           </set>
         </option>
       </GradleProjectSettings>
