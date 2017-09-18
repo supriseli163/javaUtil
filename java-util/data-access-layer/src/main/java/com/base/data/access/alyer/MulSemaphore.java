@@ -16,8 +16,8 @@ public class MulSemaphore {
     private final ReentrantLock takeLock = new ReentrantLock();
     private final Condition notEmpty = takeLock.newCondition();
 
-    private final AtomicInteger[] semaphores;
-    private final AtomicInteger[] decimalSempahores;
+    private  AtomicInteger[] semaphores = null;
+    private  AtomicInteger[] decimalSempahores = null;
 
     public class DALPermitsSet {
         private final DALPermitsSet[] permitsSets
