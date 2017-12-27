@@ -48,10 +48,5 @@ public class TreeNode{
             return next != null ? next.equals(node.next) : node.next == null;
 
         }
-
-        Node<K, V> find(int h, Object K) {
-            Node<K, V> e = this;
-
-        }
     }
 }

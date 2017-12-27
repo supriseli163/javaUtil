@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.ele.arch.etrace:etrace-agent:2.2.4">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/me.ele.arch.etrace/etrace-agent/2.2.4/188599d726d7cce0d15d8b9e2b6e7dcc9bec884b/etrace-agent-2.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/me.ele.arch.etrace/etrace-agent/2.2.4/260846285256f4db30194ae286d98f97f2ee6178/etrace-agent-2.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

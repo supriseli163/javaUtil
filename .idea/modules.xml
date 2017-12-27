@@ -7,6 +7,26 @@
       <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/grovey-util.iml" filepath="$PROJECT_DIR$/grovey-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-util/java-util.iml" filepath="$PROJECT_DIR$/java-util/java-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper.iml" filepath="$PROJECT_DIR$/../../keeper/keeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper.iml" filepath="$PROJECT_DIR$/../../keeper/keeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-shared-action/keeper-shared-action.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-shared-action/keeper-shared-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-shared-action/keeper-shared-action.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-shared-action/keeper-shared-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-shared-component/keeper-shared-component.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-shared-component/keeper-shared-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-shared-component/keeper-shared-component.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-shared-component/keeper-shared-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-shared-payload/keeper-shared-payload.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-shared-payload/keeper-shared-payload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-shared-payload/keeper-shared-payload.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-shared-payload/keeper-shared-payload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-descriptor/keeper-srv-authorizer-descriptor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-descriptor/keeper-srv-authorizer-descriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-descriptor/keeper-srv-authorizer-descriptor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-descriptor/keeper-srv-authorizer-descriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-processor/keeper-srv-authorizer-processor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-processor/keeper-srv-authorizer-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-processor/keeper-srv-authorizer-processor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-authorizer-processor/keeper-srv-authorizer-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-broker-descriptor/keeper-srv-broker-descriptor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-broker-descriptor/keeper-srv-broker-descriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-broker-descriptor/keeper-srv-broker-descriptor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-broker-descriptor/keeper-srv-broker-descriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-broker-processor/keeper-srv-broker-processor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-broker-processor/keeper-srv-broker-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-broker-processor/keeper-srv-broker-processor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-broker-processor/keeper-srv-broker-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-descriptor/keeper-srv-maintainer-descriptor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-descriptor/keeper-srv-maintainer-descriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-descriptor/keeper-srv-maintainer-descriptor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-descriptor/keeper-srv-maintainer-descriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-processor/keeper-srv-maintainer-processor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-processor/keeper-srv-maintainer-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-processor/keeper-srv-maintainer-processor.iml" filepath="$PROJECT_DIR$/../../keeper/keeper-srv-maintainer-processor/keeper-srv-maintainer-processor.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-util/sky-eagle/sky-eagle.iml" filepath="$PROJECT_DIR$/java-util/sky-eagle/sky-eagle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/supriseli.java.github.iml" filepath="$PROJECT_DIR$/.idea/supriseli.java.github.iml" />
     </modules>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eleme-jarch:utility-netty:3.1.8">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/utility-netty/3.1.8/c76ccaa2ac95eb4605c5dab6f1f02329719681ca/utility-netty-3.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/utility-netty/3.1.8/56ceaaed1c22d0e8c61afd5101ec303de540fc59/utility-netty-3.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

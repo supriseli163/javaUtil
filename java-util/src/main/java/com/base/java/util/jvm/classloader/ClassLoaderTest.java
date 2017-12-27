@@ -43,7 +43,13 @@ public class ClassLoaderTest {
             e.printStackTrace();
         }
 
+
+        String javaVmName = System.getProperty("java.vm.name");
+        System.err.println(javaVmName);
+
     }
+
+
 }
 /**
  * 自定义classLoader

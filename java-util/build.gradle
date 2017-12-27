@@ -34,5 +34,6 @@ dependencies {
     compile group: 'org.apache.poi', name: 'poi', version: '3.10-FINAL'
     compile group: 'org.apache.hadoop', name: 'hadoop-common', version: '2.6.0'
     compile group: 'org.apache.hadoop', name: 'hadoop-mapreduce-client-core', version: '2.6.0'
-
+    compile 'com.alibaba:fastjson:1.2.41'
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.2'
 }

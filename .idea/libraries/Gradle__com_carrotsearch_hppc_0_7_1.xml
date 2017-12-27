@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.carrotsearch:hppc:0.7.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/carrotsearch/hppc/0.7.1/hppc-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

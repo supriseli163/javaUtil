@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.orange.redis-embedded:embedded-redis:0.6">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/com.orange.redis-embedded/embedded-redis/0.6/1581c281676743f1da8fd3b6778b5f5c2005873a/embedded-redis-0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/com.orange.redis-embedded/embedded-redis/0.6/ecc5d701f37070a9f028bb841a4fc21ad61c3357/embedded-redis-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eleme-jarch:pylon-daemon:2.1.11">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/pylon-daemon/2.1.11/110d542d1dfb09ca79880068a7a8db131f733029/pylon-daemon-2.1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/pylon-daemon/2.1.11/503c66ca7b954477de36488adb22f3dcf149fe0d/pylon-daemon-2.1.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

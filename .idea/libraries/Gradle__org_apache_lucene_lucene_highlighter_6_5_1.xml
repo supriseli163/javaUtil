@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.lucene:lucene-highlighter:6.5.1">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/org.apache.lucene/lucene-highlighter/6.5.1/277fa328c1c6200eab3aa811bd203994a62225b4/lucene-highlighter-6.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/org.apache.lucene/lucene-highlighter/6.5.1/318cfb516f662e035d0146f3ce5e1e3c64ffaab4/lucene-highlighter-6.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

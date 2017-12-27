@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.ele.napos:wine-mdc-middleware:2.0.15-RELEASE">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/me.ele.napos/wine-mdc-middleware/2.0.15-RELEASE/bbe9a41b1e21ab87ff167d59b9dfbf9888663245/wine-mdc-middleware-2.0.15-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/me.ele.napos/wine-mdc-middleware/2.0.15-RELEASE/f11b5785d886534d7338a55432046eb195bf44b2/wine-mdc-middleware-2.0.15-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

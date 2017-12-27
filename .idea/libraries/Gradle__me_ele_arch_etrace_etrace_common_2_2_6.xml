@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.ele.arch.etrace:etrace-common:2.2.6">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/me.ele.arch.etrace/etrace-common/2.2.6/850405448042e69d5fbcfa287ecf2ec2e237accc/etrace-common-2.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/me.ele.arch.etrace/etrace-common/2.2.6/a125d9ccb03b19d002e820680643fbee9cf41be8/etrace-common-2.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

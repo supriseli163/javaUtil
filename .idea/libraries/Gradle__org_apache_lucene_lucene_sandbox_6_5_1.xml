@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.lucene:lucene-sandbox:6.5.1">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/org.apache.lucene/lucene-sandbox/6.5.1/1d7765bcaa2dcbee8083a4ecad74783849d83b4/lucene-sandbox-6.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/org.apache.lucene/lucene-sandbox/6.5.1/db8b5c891e17916cd339b22ff05da10444568547/lucene-sandbox-6.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

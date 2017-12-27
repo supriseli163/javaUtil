@@ -1,7 +1,6 @@
 package com.base.data.access.alyer.netty;
 
 import com.base.data.access.alyer.server.pool.ServerSession;
-import com.base.data.access.alyer.sql.ComposableCommand;
 
 import java.net.Authenticator;
 import java.nio.channels.Channel;

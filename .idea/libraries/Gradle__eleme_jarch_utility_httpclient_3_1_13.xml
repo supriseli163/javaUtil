@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eleme-jarch:utility-httpclient:3.1.13">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/utility-httpclient/3.1.13/5c0778ad75512c7737385f715ceaf8ffc0abd90f/utility-httpclient-3.1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/utility-httpclient/3.1.13/960f24132cc0a393189b0ca2fdc608e5eae5cc76/utility-httpclient-3.1.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

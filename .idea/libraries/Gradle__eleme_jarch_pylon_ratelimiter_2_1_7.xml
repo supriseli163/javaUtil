@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eleme-jarch:pylon-ratelimiter:2.1.7">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/pylon-ratelimiter/2.1.7/4f2098fa5abfa55ba91c9454445cc234f4d7fb79/pylon-ratelimiter-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/pylon-ratelimiter/2.1.7/70120dc6bb3855b2c782eb2d2dd1a64aed46bcc2/pylon-ratelimiter-2.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

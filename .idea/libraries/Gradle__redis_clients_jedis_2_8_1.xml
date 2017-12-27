@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: redis.clients:jedis:2.8.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

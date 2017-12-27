@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eleme-jarch:pylon-heartbeat:2.1.11">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/pylon-heartbeat/2.1.11/4af31a7722d95447ebc65c388b28dc0affa6a140/pylon-heartbeat-2.1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/eleme-jarch/pylon-heartbeat/2.1.11/beb1259dd09883245a978683a60d7f81e830b1b1/pylon-heartbeat-2.1.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

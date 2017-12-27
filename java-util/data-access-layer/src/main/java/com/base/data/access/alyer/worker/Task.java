@@ -5,5 +5,4 @@ import java.util.logging.Logger;
 public abstract class Task implements Runnable, Comparable<Task> {
     private static final Logger logger =  Logger.getLogger(Task.class.getName());
 
-    protected final SqlSe
 }
