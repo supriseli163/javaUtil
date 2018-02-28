@@ -1,5 +1,7 @@
 package me.base.groovy.util.MyGroovy
 
+import javax.naming.Binding
+
 def sharedData = new Binding()
 def shell = new GroovyShell()
 def now = new Date()
