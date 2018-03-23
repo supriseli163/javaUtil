@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-util/data-access-layer/data-access-layer.iml" filepath="$PROJECT_DIR$/java-util/data-access-layer/data-access-layer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-util/framework/framework.iml" filepath="$PROJECT_DIR$/java-util/framework/framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/grovey-util.iml" filepath="$PROJECT_DIR$/grovey-util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-util/java-util.iml" filepath="$PROJECT_DIR$/java-util/java-util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaUtil.iml" filepath="$PROJECT_DIR$/javaUtil.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-util/sky-eagle/sky-eagle.iml" filepath="$PROJECT_DIR$/java-util/sky-eagle/sky-eagle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/supriseli.java.github.iml" filepath="$PROJECT_DIR$/.idea/supriseli.java.github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/framework.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/framework.iml" group="framework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-util/java-util.iml" filepath="$PROJECT_DIR$/.idea/modules/java-util/java-util.iml" group="java-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-util/java-util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-util/java-util_main.iml" group="java-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-util/java-util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-util/java-util_test.iml" group="java-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/supriseli.java.github.iml" filepath="$PROJECT_DIR$/.idea/modules/supriseli.java.github.iml" />
     </modules>
   </component>
 </project>

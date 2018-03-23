@@ -19,7 +19,6 @@ public class AroundAdvice implements MethodInterceptor{
      *
      * Code Generation Library, 简单来说,就是一个代码生成类库,他可以在运行时动态生成某个类的子类
      */
-    @Override
     public Object intercept(Object obj, Method method, Object[] args, MethodProxy proxy) throws Throwable {
         System.out.println("执行目标方法之前,模拟开始事物.......");
         //执行目标方法,并保存目标方法执行后的返回值

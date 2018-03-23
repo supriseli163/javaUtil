@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.inject.extensions:guice-servlet:4.1.0">
     <CLASSES>
-      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/com.google.inject.extensions/guice-servlet/4.1.0/90ac2db772d9b85e2b05417b74f7464bcc061dcb/guice-servlet-4.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject.extensions/guice-servlet/4.1.0/90ac2db772d9b85e2b05417b74f7464bcc061dcb/guice-servlet-4.1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar:///usr/local/Cellar/gradle/2.11/libexec/caches/modules-2/files-2.1/com.google.inject.extensions/guice-servlet/4.1.0/ecc2cebb8f48d21eac71979235e0edd4b57ace87/guice-servlet-4.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject.extensions/guice-servlet/4.1.0/ecc2cebb8f48d21eac71979235e0edd4b57ace87/guice-servlet-4.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

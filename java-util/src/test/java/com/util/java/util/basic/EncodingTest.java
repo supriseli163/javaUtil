@@ -1,9 +1,5 @@
 package com.util.java.util.basic;
 
-import com.base.java.util.common.EncodingUtil;
-import com.base.java.util.common.TimeBasedUUIDGenerator;
-import com.base.java.util.common.TimeUtil;
-import com.base.java.util.common.UUIDUtil;
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.NoArgGenerator;
 import org.junit.Test;
