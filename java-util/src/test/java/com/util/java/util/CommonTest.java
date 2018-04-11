@@ -1,7 +1,6 @@
 package com.util.java.util;
 
-import com.base.java.util.common.EnvUtil;
-import com.base.java.util.common.MemorySizeUtil;
+import com.base.java.util.framework.EnvUtil;
 import com.base.java.util.config.Config;
 import com.base.java.util.config.ConfigLoader;
 import com.base.java.util.json.JsonUtil;
@@ -60,12 +59,5 @@ public class CommonTest {
     public void testHostName() {
         System.err.println(EnvUtil.getHostName());
         System.err.println(EnvUtil.getIpAddress());
-    }
-
-    @Test
-    public void testMemorySize() {
-        innerClassA = new InnerClassA();
-        int size = MemorySizeUtil.estimateSize(innerClassA);
-        System.err.print(size);
     }
 }

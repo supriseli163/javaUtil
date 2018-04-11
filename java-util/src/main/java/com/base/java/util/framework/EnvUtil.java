@@ -3,7 +3,7 @@ package com.base.java.util.framework;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 public class EnvUtil {
-    private static String getHostName() {
+    public static String getHostName() {
         try {
             return InetAddress.getLocalHost().getHostName();
         } catch (UnknownHostException ex) {
@@ -11,7 +11,7 @@ public class EnvUtil {
         }
     }
 
-    private static String getIpAddress() {
+    public static String getIpAddress() {
         try {
             return InetAddress.getLocalHost().getHostAddress();
         } catch (UnknownHostException ex) {

@@ -1,5 +1,6 @@
 package com.util.java.util.basic;
 
+import org.apache.commons.collections.map.IdentityMap;
 import org.testng.annotations.Test;
 
 import java.util.*;
@@ -81,5 +82,31 @@ public class MapTest {
             Map.Entry entry = (Map.Entry)iterator.next();
             System.out.println("Key:" + entry.getKey() + "=====Value:" + entry.getValue());
         }
+    }
+
+    /**
+     * IdentityHashMap对象中添加了判断key-value中的key是最新创建的字符串对象，他们通过"=="
+     * 比较不相等，所以IdentityHashMap会把他们当成2个key来处理；
+     * 后2个key-value都是自出串直接量，是 primitive类型，而且他们的字符串序列完全相同，java
+     * 使用常量池来管理字符串，所以他们通过"=="来比较返回true,identityHashMap会认为他们是同一个key
+     * 因此只有一次可以添加成功。
+     * 是指
+     */
+    @Test
+    public void testIdentityHashMap() {
+        Map<String, String> identityHashMap = new IdentityHashMap<>();
+        identityHashMap.put(new String("xiaoming"), "12");
+        identityHashMap.put(new String("xiaoming"), "13");
+        identityHashMap.put("java", "14");
+        identityHashMap.put("java", "15");
+        System.err.println(identityHashMap);
+
+        Map<String, String> hashMap = new HashMap<>();
+        hashMap.put(new String("xiaoming"), "12");
+        hashMap.put(new String("xiaoming"), "13");
+        hashMap.put("java", "14");
+        hashMap.put("java", "15");
+        System.err.println(hashMap);
+
     }
 }

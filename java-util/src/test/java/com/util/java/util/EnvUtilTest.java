@@ -1,6 +1,6 @@
 package com.util.java.util;
 
-import com.base.java.util.common.EnvUtil;
+import com.base.java.util.framework.EnvUtil;
 import org.testng.annotations.Test;
 
 public class EnvUtilTest {

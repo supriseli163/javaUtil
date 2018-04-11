@@ -6,7 +6,7 @@ import io.netty.channel.Channel;
 import io.netty.handler.codec.http.HttpServerCodec;
 
 public class HttpServer extends DefaultTcpServer {
-    public HttpServer(int workerThreads, IChInitializer initializer) {
+    public HttpServer(int workerThreads, final IChInitializer initializer) {
         super(workerThreads, new IChInitializer() {
             @Override
             public void initChannel(Channel channel) throws Exception {

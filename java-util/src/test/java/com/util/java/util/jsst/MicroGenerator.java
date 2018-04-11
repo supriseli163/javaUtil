@@ -11,7 +11,7 @@ public class MicroGenerator {
      * @throws Exception
      */
     public static void main(String[] args) throws Exception {
-        for (int i = 0; i < 100_000_000; i++) {
+        for (int i = 0; i < 100_000_000L; i++) {
             generate("eu.plumbr.demo.main" + i);
         }
     }
